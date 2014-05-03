@@ -85,8 +85,8 @@ Afghan-Mod version 2.8
   + 3x Suicide bombers
   
 + Units Independent:
-  + 2x AP reporters (voices from Marci und R2D2)
-  + 4 CIA Special Operators
+  + 2x AP reporters (voices from Marci,R2D2)
+  + 4 CIA Special Operators (voices from JRyan,R2D2Blue,Foghorny_camel)
   
 + Vehicles:
 	+ 2x civilian cars: Lada, Peugeot
