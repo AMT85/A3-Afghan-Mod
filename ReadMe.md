@@ -86,7 +86,7 @@ Afghan-Mod version 2.8
   
 + Units Independent:
   + 2x AP reporters (voices from Marci,R2D2)
-  + 4 CIA Special Operators (voices from JRyan,R2D2Blue,Foghorny_camel)
+  + 4 CIA Special Operators (voices from JRyan,R2D2,BlueFog,horny_camel)
   
 + Vehicles:
 	+ 2x civilian cars: Lada, Peugeot
