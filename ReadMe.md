@@ -19,7 +19,7 @@ AMT:
 + Alexander	(Missions and motivation)
 		
 + Nataliya    (Motivator for the whole team :-) and cutest girl in the world :-)
-+ Julia and Sveta: actors for our 2 nurses. Many,many thanks you.It was a hard work, but the nurses have a lovely und sexy voice :-)
++ Julia and Sveta: actors for our 2 nurses. Many,many thanks to you.It was a hard work, but the nurses have a lovely und sexy voice :-)
 		
 Canadian Donuts: Our excellent testers
 + Marci		(Community Leader)
