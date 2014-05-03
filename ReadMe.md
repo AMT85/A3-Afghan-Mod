@@ -17,6 +17,8 @@ AMT:
 + Konstantin	(Textures)
 + Kolja		(Music)
 + Alexander	(Missions and motivation)
+
++ russian Army voices: AMT85 community
 		
 + Nataliya    (Motivator for the whole team :-) and cutest girl in the world :-)
 + Julia and Sveta: actors for our 2 nurses. Many,many thanks to you.It was a hard work, but the nurses have a lovely und sexy voice :-)
@@ -81,6 +83,10 @@ Afghan-Mod version 2.8
   
   + 18x Mujahideen
   + 3x Suicide bombers
+  
++ Units Independent:
+  + 2x AP reporters (voices from Marci und R2D2)
+  + 4 CIA Special Operators
   
 + Vehicles:
 	+ 2x civilian cars: Lada, Peugeot
