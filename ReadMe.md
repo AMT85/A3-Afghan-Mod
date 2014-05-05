@@ -1,4 +1,23 @@
-A3 addon content only in the moment.
+﻿
+ChangeLog:
+
+Date: 2014-05-05
+
+
++ added only class a85_sov_ar_ra_1,a85_sov_ar_ra_1,a85_sov_ar_spez_ra_1 have default radio batteries in vest Buzs
++ modified vest a85_sov_ar_ra_1,a85_sov_ar_ra_2,a85_sov_ar_spez_ra_1 Buzs
++ added field mash desert texture Buzs
++ 4x VDV units (beta) Buzs
++ added Grad BM-21	Buzs
++ added BTR-60PB Buzs
++ added BMP-1 desert texture Buzs
++ added BRDM-2 scout car Buzs
++ modified ZSU-23-4 Buzs
++ modified RPG-7 Buzs
++ modified 'Тельняшка' for VDV and Spez Buzs
++ fixed bug binocular: blackline during using Buzs
++ fixed knife for Spez: changed the size Buzs
+
 
 Made by the AMT85 Community.
 Special thanx to:
