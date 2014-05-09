@@ -1,3 +1,3 @@
 ﻿closed
 
-Access only for members!
+Access only for AMT85 members!
