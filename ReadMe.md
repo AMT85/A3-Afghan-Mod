@@ -2,7 +2,17 @@
 
 Access only for AMT85 members!
 Modified by Buzs
-Changed path for upload
+
+2014-05-31 by Buzs
+- added new vegetation at Kandahar map
+- fixed road signs
+- added new watchtower
+- added new modul for minefields
+- fixed weather now more dyn.
+- added new variant of sandstorm (real sandstorm :) )
+- added 2x guard dogs
+- fixed recoil system of AK-47
+- modified sound of PKM
 
 2014-05-21 by Buzs
 - added 9x units from Afghan Armed Forces (Independent)
