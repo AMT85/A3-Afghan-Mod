@@ -4,7 +4,7 @@ Download available only with a ticket!
 
 - All Rights Reserved.
 
-- Licensed under CC BY-NC-SA 4.0;
+- <h3>Licensed under CC BY-NC-SA 4.0</h3>
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 - <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
