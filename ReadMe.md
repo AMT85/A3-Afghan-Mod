@@ -9,7 +9,7 @@ Download available only with a ticket!
 - <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
 
-Modified by Buzs
+2014-07-07 by Buzs
 
 - added PFM-1 mine
 - added Kamaz truck (soviet and afghan army)
