@@ -11,6 +11,10 @@ Download available only with a ticket!
 
 Modified by Buzs
 
+- added PFM-1 mine
+- added Kamaz truck (soviet and afghan army)
+- added Ural truck (soviet and afghan army)
+
 2014-05-31 by Buzs
 - added new vegetation at Kandahar map
 - fixed road signs
