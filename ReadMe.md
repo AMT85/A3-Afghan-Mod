@@ -8,7 +8,7 @@ Download available only with a ticket!
 - Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 - <http://creativecommons.org/licenses/by-nc-sa/4.0/>
 
-2014-07-07 by Buzs
+2014-07-31 by Buzs
 
 - Release 3.0
 - added map Herat
